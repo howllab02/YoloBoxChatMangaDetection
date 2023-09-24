@@ -1,4 +1,4 @@
-FROM python:3
+FROM python:3.8
 LABEL authors="novar"
 WORKDIR /home/novar/PycharmProjects/BoxChatMangaDetection
 
