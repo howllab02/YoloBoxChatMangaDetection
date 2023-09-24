@@ -1,7 +1,7 @@
 <h1>Box Chat Detection</h1> 
 
-<img src="Assets/jujusukaisen01.jpg" width="443">
-<img src="Assets/jujusukaisen02.jpg">
+<img src="Assets/jujusukaisen01.jpg" width="200">
+<img src="Assets/jujusukaisen02.jpg" width="200">
 
 <h2>Bài toán xử lý là phát hiện các Box Chat của các nhân vật. </h2></br>
 <p>Ở bài toán này chúng tôi sử dụng Yolov5 để detect Box Chat của các nhân vật, 
