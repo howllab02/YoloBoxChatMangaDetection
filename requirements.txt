@@ -1,8 +1,12 @@
-torch torchvision torchaudio --index-url https://download.pytorch.org/whl/nightly/cu118
+torch
+torchvision
+torchaudio
 flask==2.3.3
-opencv-python==4.2.0.34
+opencv-python
 ultralytics==8.0.184
 numpy==1.24.3
+--upgrade pip
+
 
 
 
