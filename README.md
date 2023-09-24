@@ -1,6 +1,6 @@
 <h1>Box Chat Detection</h1> 
 
-<div><img src="Assets/jujusukaisen01.jpg" width="300"><img src="Assets/jujusukaisen02.jpg" width="315"></div>
+<div><img src="Assets/jujusukaisen01.jpg" width="300"><img src="Assets/jujusukaisen02.jpg" width="313"></div>
 <img src="Assets/AisazuNihaIrarenai026.jpg">
 
 <h2>Bài toán xử lý là phát hiện các Box Chat của các nhân vật. </h2></br>
