@@ -2,10 +2,9 @@ torch
 torchvision
 torchaudio
 flask==2.3.3
-opencv-python
+supervision==0.8.0
 ultralytics==8.0.184
 numpy==1.24.3
---upgrade pip
 
 
 
