@@ -13,4 +13,4 @@ kết quả nhận được khá là tốt khi mà mAP của chúng tôi là 96.
 <h2>Cảm ơn </h2>
 <p>Project này được xây dựng từ những bộ dataset này:</p>
 
-<p> Dataset <a href= http://www.manga109.org/en/download_s.html></a></p>
+<p><a href= http://www.manga109.org/en/download_s.html>Manga 109s</a></p>
