@@ -8,7 +8,7 @@
 kết quả nhận được khá là tốt khi mà mAP của chúng tôi là 96.2%.
 </p>
 <p>bạn có thể tải model <a href="https://drive.google.com/file/d/1GLfagjqg_j2uYPPXhSsMsKDuIWcKctdu/view?usp=drive_link">tại đây</a></p>
-<h2>hướng dẫn</h2>
+<h2>Hướng dẫn</h2>
 <p>sau khi clone github và tải model về thì hãy bỏ model vào thư mục static và chỉ cần nhấn run thôi</p>
 <h2>Cảm ơn </h2>
 <p>Project này được xây dựng từ những bộ dataset này:</p>
