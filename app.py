@@ -26,7 +26,7 @@ def inference():
         img_bytes = file.read()
         model = YoloModel(weight)
         img = to_tensor(img_bytes)
-        result = model.predict(bytes_image=img)
+        result = model.predict(tensor_image=img)
         return jsonify({"bbox": result.tolist()})
 
 
